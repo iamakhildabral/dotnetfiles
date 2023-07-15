@@ -7,8 +7,8 @@ namespace Test
         
         static void Main(string[] args)
         {
-            Palindrome.PalindromeUtils.IsPalindrome();
-            
+            //Palindrome.PalindromeUtils.IsPalindrome();
+            Armstrong.Armstrong.isArmstrong();
         }
     }
 }
