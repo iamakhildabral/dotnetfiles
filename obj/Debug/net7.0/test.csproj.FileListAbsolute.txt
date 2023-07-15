@@ -1,0 +1,15 @@
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/adabral/codetestU/dotnetprojects/test/bin/Debug/net7.0/test
+/home/adabral/codetestU/dotnetprojects/test/bin/Debug/net7.0/test.deps.json
+/home/adabral/codetestU/dotnetprojects/test/bin/Debug/net7.0/test.runtimeconfig.json
+/home/adabral/codetestU/dotnetprojects/test/bin/Debug/net7.0/test.dll
+/home/adabral/codetestU/dotnetprojects/test/bin/Debug/net7.0/test.pdb
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.dll
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/refint/test.dll
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.pdb
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/adabral/codetestU/dotnetprojects/test/obj/Debug/net7.0/ref/test.dll
